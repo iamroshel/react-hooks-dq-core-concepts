@@ -1,4 +1,4 @@
-# Discussion Questions: Core React Concepts
+# Discussion Questions: Core React Concepts c
 
 Each person in your group should take one of the following topics and explain it
 to the group in their own words. Be sure to provide concrete examples in your
